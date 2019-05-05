@@ -1,0 +1,5 @@
+local coke  = xPlayer.getInventoryItem('coke_pooch').count
+	
+local weed = xPlayer.getInventoryItem('weed_pooch').count
+	
+local opium = xPlayer.getInventoryItem('opium_pooch').count
